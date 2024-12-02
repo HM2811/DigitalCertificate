@@ -4,6 +4,8 @@ This project demonstrates how to **establish a secure communication channel** be
 
 ---
 *Steps*
+
+
 Step 1: Generate Self-Signed Certificates
 Generate the necessary self-signed certificates for both the server and the client. This will allow both parties to authenticate each other and establish a secure connection.
 
